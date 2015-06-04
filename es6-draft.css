@@ -8,8 +8,7 @@ body {
     max-width: 800px;
     background-color: #fdfdfc;
     color: #333333;
-    font-family: Cambria, Palatino Linotype, Palatino, Liberation Serif,
-        serif;
+    font-family: "Coming Soon", serif;
     font-size: 17px;
     line-height: 135%;
 }
@@ -56,7 +55,7 @@ span.errorname, code, pre {
     font-weight: bold;
 }
 
-code, pre, .string.value { font-family: "Courier New", monospace; }
+code, pre, .string.value { font-family: "Patrick Hand", monospace; }
 code, .string, .math { white-space: nowrap; }
 
 sup, sub {
@@ -214,7 +213,7 @@ code { /* including code.t, meaning "terminal" or "token" */
     color: #555555;
 }
 span.nt {  /* nonterminal */
-    font-family: Times New Roman, Times, FreeSerif, serif;
+    font-family: "Patrick Hand", serif;
     font-style: italic;
 }
 span.geq { font-weight: bold; }  /* grammar equal-sign, like "::" */
@@ -223,14 +222,14 @@ span.grhsmod {  /* right-hand side modifier, like "one of", "but not" */
     color: #555555;
 }
 span.grhsannot {   /* right-hand side annotation, like "[empty]" */
-    font-family: Helvetica, Arial, Liberation Sans, sans-serif;
+    font-family: "Patrick Hand", serif;
     font-size: smaller;
 }
 span.chgloss {  /* gloss for a character, like "asterisk" */
     font-style: italic;
 }
 span.gprose {
-    font-family: Helvetica, Arial, Liberation Sans, sans-serif;
+    font-family: "Patrick Hand", serif;
     font-size: 90%;
 }
 
